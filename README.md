@@ -1,5 +1,6 @@
 # net-walk
 
+This repository contains jigsaw puzzle game built by c++
 
 ![background](https://user-images.githubusercontent.com/73470193/191527224-b3ea6d34-3370-4ef1-af01-8daa312b2232.png)
 
